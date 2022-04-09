@@ -1,11 +1,53 @@
-<!DOCTYPE html>
+.nav-logo {font-size: 13px;
+          color:#FF4D4D;
+          display: inline-block;
+          margin: 22px 92px 15px 20px;
+          vertical-align: middle;}
+.nav-li1 {font-size: 11px;
+          color:#202124;
+          display: inline-block;
+          margin: 22px 27px 17px 0px;
+          vertical-align: middle;}
 
-<html>
+.nav-li {font-size: 11px;
+          color:#A6ADB4;
+          display: inline-block;
+          margin: 22px 22px 17px 0px;
+          vertical-align: middle;}
+
+.nav-li3 {margin-right:40px;}
+.div1 {display: inline-block;}
+.circleimage {margin: 13px 0px 7px 0px;
+              display: inline-block;
+              vertical-align: middle;}
+.h1 {font-size: 24px;
+     color:#202124;
+     display: inline-block;
+     margin: 75px 0px 40px 140px;}
+.img2 {width: 360px;
+       height: 180px;
+       position: absolute;
 
 
+   }
+.divs1 {display: inline-block;
+        widows: 360px;
+        height: 350px;
+        background: red;
+        margin: 0px 40px 60px 140px;
+        display: inline-block;}
+.divon1 {width: 280px;
+         height:16px;}
+.p1 {background: none;
+     font-size:16px;
+     color:#FFFFFF;
+     position: relative;
+     top:28px;
+     left: 40px;
+     right:40px;}
 
-
-</html>
-
-
-
+.p2 {display: inline-block;
+	  width: 360px;
+      background-color: red;
+      font-size: 13px;
+      color: #A6ADB4;}
