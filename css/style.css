@@ -20,34 +20,5 @@
 .circleimage {margin: 13px 0px 7px 0px;
               display: inline-block;
               vertical-align: middle;}
-.h1 {font-size: 24px;
-     color:#202124;
-     display: inline-block;
-     margin: 75px 0px 40px 140px;}
-.img2 {width: 360px;
-       height: 180px;
-       position: absolute;
 
 
-   }
-.divs1 {display: inline-block;
-        widows: 360px;
-        height: 350px;
-        background: red;
-        margin: 0px 40px 60px 140px;
-        display: inline-block;}
-.divon1 {width: 280px;
-         height:16px;}
-.p1 {background: none;
-     font-size:16px;
-     color:#FFFFFF;
-     position: relative;
-     top:28px;
-     left: 40px;
-     right:40px;}
-
-.p2 {display: inline-block;
-	  width: 360px;
-      background-color: red;
-      font-size: 13px;
-      color: #A6ADB4;}
