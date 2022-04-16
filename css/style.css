@@ -22,7 +22,8 @@
               vertical-align: middle;}
 .title {color:#202124;
         margin: 25px 38px 40px 0px;
-        font-size: 24px;}
+        font-size: 24px;
+        font-family: 'IBM Plex Sans Arabic', sans-serif;}
 .divsection1 {background: #F6F8F9;
               width: 360px; 
               height:350px;
@@ -36,14 +37,15 @@
      position: relative;
      top:28px;
      right:40px;
-     left:40px;}
+     left:40px;
+     font-family: 'IBM Plex Sans Arabic', sans-serif;}
 .p1 {position: relative;
      font-size:13px;
      width:280px;
      color:#707070;
      display: inline-block;
-     padding: 246px 40px 66px 40px;}
-.d1 {background: yellow;}
+     padding: 246px 40px 66px 40px;
+     font-family: 'IBM Plex Sans Arabic', sans-serif;}
 .divsection2 {display: inline-block;
               width: 360px; 
               height:350px;
@@ -63,26 +65,30 @@
       position: relative;
       top:28px;
       right:40px;
-      left:40px;}
+      left:40px;
+      font-family: 'IBM Plex Sans Arabic', sans-serif;}
 .p2 {position: relative;
      font-size:13px;
      width:280px;
      color:#707070;
      display: inline-block;
-     padding: 246px 40px 66px 40px;}
+     padding: 246px 40px 66px 40px;
+     font-family: 'IBM Plex Sans Arabic', sans-serif;}
 .img3 {position: absolute;}
 .p3on {display: inline-block;
        color:#FFFFFF;
       position: relative;
       top:28px;
       right:40px;
-      left:40px;}
+      left:40px;
+      font-family: 'IBM Plex Sans Arabic', sans-serif;}
 .p3 {position: relative;
      font-size:13px;
      width:280px;
      color:#707070;
      display: inline-block;
-     padding: 246px 40px 66px 40px;}
+     padding: 246px 40px 66px 40px;
+     font-family: 'IBM Plex Sans Arabic', sans-serif;}
 .divsection4 {display: inline-block;
               vertical-align: top;
               margin-right: 40px;}
@@ -91,12 +97,13 @@
        color:#FFFFFF;
        position: relative;
        top:394px;
-      left:569px;}
+      left:569px;
+      font-family: 'IBM Plex Sans Arabic', sans-serif;}
 .h2 {color:#202124;
       margin: 0 auto;
         margin-bottom: 38px;
         font-size: 24px;
-        background: yellow;}
+        font-family: 'IBM Plex Sans Arabic', sans-serif;}
 .img22 {padding-top: 525px;}
 .verticaldiv2 {display: inline-block;
                width: 360px;
@@ -109,7 +116,8 @@
 .texton {position: relative;
          color: #FFFFFF;
          display: inline-block;
-         padding:18px 0 0 40px;}
+         padding:18px 0 0 40px;
+         font-family: 'IBM Plex Sans Arabic', sans-serif;}
 .photo2 {padding-top: 278px;
         }
 .photo3 {margin-top:102px;}
